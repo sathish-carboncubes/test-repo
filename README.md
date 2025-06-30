@@ -44,3 +44,5 @@ This project relies on the following main libraries:
 *   **python-dotenv**: For managing environment variables.
 
 The specific versions are managed in `pyproject.toml` and `uv.lock`.
+
+Updated this file and must show up in the repo of sathish.
